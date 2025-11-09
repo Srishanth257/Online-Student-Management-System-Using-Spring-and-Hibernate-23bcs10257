@@ -320,7 +320,7 @@ idleTimeout=600000
 ## 👨‍💻 Author
 
 **Chandan-int**
-- GitHub: [@Chandan-int](https://github.com/Chandan-int)
+- GitHub: [@Arla Srishanth]([https://github.com/Chandan-int](https://github.com/Srishanth257))
 
 ---
 
